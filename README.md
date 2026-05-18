@@ -31,8 +31,6 @@ Ali et al. (2025) zeigen in einem **zweistufigen Spiel**:
   ![Preisverlauf](output/eqpricesandcs.png)
   *Abbildung: Gleichgewichtspreise und Konsumentenrente (Quelle: Eigene Simulation).*
 
-- **Grenzkostenanalyse:**
-  ![Grenzkosten](output/MarginalCosts.png)
 
 ### 3. **Empirische Implikationen**
 | **Branche**       | **Anwendung**                          | **Beispiel**                     |
@@ -41,17 +39,3 @@ Ali et al. (2025) zeigen in einem **zweistufigen Spiel**:
 | Banken            | Kreditvergabe                          | Bonitätsabhängige Zinsen          |
 | Gesundheitswesen | Versicherungsprämien                   | Risikoabhängige Beiträge         |
 
----
-## 💻 Code-Beispiele
-### Nash-Gleichgewicht berechnen (R)
-```r
-# Pakete laden
-library(nash)
-
-# Auszahlungsmatrix (vereinfacht)
-A <- matrix(c(0, -1, -1, 0), nrow = 2)  # Unternehmen
-B <- matrix(c(0, -1, -1, 0), nrow = 2)  # Konsument
-
-# Nash-Gleichgewicht berechnen
-equilibrium <- nash.solve(A, B)
-print(equilibrium)
