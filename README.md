@@ -65,3 +65,34 @@ Analyse des **bahnbrechenden Papers von Ali, Lewis & Vasserman (2022)** (*Review
 - **Ergebnis:** **CS ≤ Uniform Pricing** (Proposition 1, Seite 9).
 
 **Formel (Discrete Example, Seite 26):**
+
+
+### 2️⃣ **Monopol mit Rich Evidence (Zeno’s Partition)**
+- **Mechanismus:** Konsumenten beweisen **Zugehörigkeit zu einer Gruppe** (z. B. v ∈ [a, b]), ohne **exakten Wert** preiszugeben.
+- **Ergebnis:**
+  - **Preisfunktion:** Gestufte Preise (Seite 12).
+  - **CS steigt für fast alle Typen** (Seite 14).
+  - **Pareto-Verbesserung:** Win-Win für Konsumenten und Unternehmen.
+
+**Berechnung der Wohlfahrtsgewinne (Seite 13):**
+
+
+---
+
+---
+
+## 💡 **Policy Implications & Business Cases**
+### **Für Regulierer (Bundeskartellamt, EU, GDPR)**
+| **Problem** | **Lösung aus dem Paper** | **Umsetzung** |
+|-------------|--------------------------|---------------|
+| **Perfekte Preisdiskriminierung** | **Rich Evidence** (selektive Offenlegung) ermöglicht CS-Gewinne. | **Datenschutzgesetze** müssen **selektive Offenlegung** (z. B. via APIs) erzwingen. |
+| **Datenmonopole (Google, Meta)** | Konsumenten können **Daten an Rivalen** weitergeben, um Wettbewerb zu fördern. | **Datenportabilität** (Art. 20 GDPR) stärken. |
+| **Forced Revelation** | Monopolisten können Konsumenten **zur Offenlegung zwingen** (sceptical beliefs). | **Transparenzpflichten** für Algorithmen einführen. |
+
+### **Für Unternehmen (Amazon, Zalando, Apple, Samsung)**
+| **Branche** | **Anwendung** | **Beispiel** |
+|-------------|---------------|--------------|
+| **E-Commerce** | **Gruppendiscounts** (z. B. Studentenrabatt) erhöhen CS und Umsatz. | **Amazon Prime:** Rabatte für nachgewiesene Gruppen (z. B. Senioren). |
+| **Tech (FAANG)** | **Selektive Datenfreigabe** für personalisierte Werbung. | **Google Ads:** Nutzer entscheiden, welche Daten sie teilen. |
+| **Telekommunikation** | **Preisdifferenzierung** basierend auf **freiwilliger Offenlegung**. | **Vodafone:** Günstigere Tarife für Nutzer, die ihre Nutzungsdaten teilen. |
+| **Banken/FinTech** | **Kredit-Scoring** mit **selektiver Offenlegung**. | **N26:** Bessere Zinsen für Nutzer, die Einkommensdaten teilen. |
