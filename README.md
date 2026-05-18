@@ -2,11 +2,6 @@
 **Theoretische Analyse von Ali et al. (2022) – Market Design & Verhaltensökonomie**
 *Theo Osterhaus | Universität zu Köln | WiSe 2025/26*
 
-[![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheoOsterhaus/Information-and-Strategie)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PDF](https://img.shields.io/badge/PDF-Präsentation-red?style=for-the-badge)](docs/presentation.pdf)
-
 ---
 
 ## 🎯 **Ziel der Arbeit**
