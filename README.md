@@ -35,9 +35,6 @@ Analyse des **bahnbrechenden Papers von Ali, Lewis & Vasserman (2022)** (*Review
 - **Mechanismus:** Konsumenten **beweisen** ihre Zugehörigkeit zu einer Gruppe (z. B. Studenten) und erhalten einen Rabatt.
 - **Theoretische Grundlage:** **Zeno’s Partition** (Seite 14) – Konsumenten zwingen den Monopolisten zu **Gruppendiscounts**.
 
-![Museum Ludwig Preisgestaltung](output/Gemini_Generated.png)
-*Quelle: Eigene Darstellung (basierend auf Ali et al. 2022, Abb. 1)*
-
 ### 2️⃣ **Smartphone Switcher Paradox (Apple vs. Samsung)**
 - **Setup:** Hotelling-Modell mit **Apple (a = -1000)** und **Samsung (s = 1000)**.
 - **Konsumentenstrategie:**
@@ -45,8 +42,6 @@ Analyse des **bahnbrechenden Papers von Ali, Lewis & Vasserman (2022)** (*Review
   - **Zentrale Typen** (l ≈ 0) offenbaren **beiden** Firmen ihre Position → **Uniform Pricing**.
 - **Ergebnis:** **Preise sinken** durch strategische Offenlegung (Seite 17, 32).
 
-![Hotelling-Modell](output/hotelling_model.png)
-*Quelle: Eigene Darstellung (basierend auf Ali et al. 2022, Abb. 2)*
 
 ### 3️⃣ **Equilibrium Prices & Consumer Surplus**
 - **Monopol mit Rich Evidence:** Konsumenten erzwingen **gestufte Preise** (Seite 12).
