@@ -1,0 +1,21 @@
+# R
+*.RData
+*.Rhistory
+*.Rproj
+.Rproj.user/
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+
+# System
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
