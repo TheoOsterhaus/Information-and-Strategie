@@ -10,7 +10,7 @@ Analyse des **bahnbrechenden Papers von Ali, Lewis & Vasserman (2022)** (*Review
 - **Können Konsumenten von personalisierten Preisen profitieren**, wenn sie die Kontrolle über ihre Daten haben?
 - **Welche Implikationen hat das für Unternehmen, Regulierer und die Gesellschaft?**
 
-**🔗 [Vollständige Präsentation (PDF)](docs/presentation.pdf)**
+**🔗 [Vollständige Präsentation (PDF)](output/Information_and_Strategie.pdf)**
 
 ---
 
